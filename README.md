@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Oskg
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android SDK
-- 📫 How to reach me:
-      - TG: @AbsNth
+- 📫 How to reach me: @AbsNth - telegram
 
 <!---
 Oskg/Oskg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
